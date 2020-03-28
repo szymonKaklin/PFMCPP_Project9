@@ -3,6 +3,9 @@
  Chapter 5 Part 7 Task
 
  Create a branch named Part1
+
+Purpose:  This project will teach you about variadic templates and recursive templates, one of the last areas needing discussion while learning C++
+
  
 1) read Instructions.cpp
 
@@ -11,7 +14,9 @@ Make the following program work, which makes use of Variadic templates and Recur
 Once it's working: 
 Commit your changes by clicking on the Source Control panel on the left, entering a message, and click [Commit and push].
  
- Send me the the link to your repl.it in a DM on Slack
+Make a pull request after you make your first commit and pin the pull request link to our DM thread.
+
+send me a DM to check your pull request
 
  Wait for my code review.
  */
